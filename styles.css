@@ -1,0 +1,49 @@
+body{
+    height:3500px;
+    background-image:linear-gradient(black,black,black,rgb(64, 36, 109),rgb(64, 36, 109),rgb(64, 36, 109),rgb(64, 36, 109),rgb(64, 36, 109));
+}
+
+.container{
+
+}
+
+.Top{
+    display:flex;
+    justify-content:center;
+    
+}
+
+.heaven{
+    border:1px solid black;
+    height:1000px;
+    width:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.angel1{
+    height:970px;
+    
+}
+.boxbe{
+    /* width:400px;
+    height:80px; */
+    padding:20px;
+    padding-left:35px;
+    padding-right:35px;
+    border:1px solid white;
+    color:white;
+    font-family:comic sans;
+    font-size:20px;
+    text-align:center;
+    align-content:center;
+}
+.angel2{
+    
+    height:910px;
+    width:500px;
+    margin-right:180px;
+    margin-left:35px;
+}
+    
